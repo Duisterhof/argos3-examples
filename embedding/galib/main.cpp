@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
    /* Create and configure a basic genetic algorithm using the genome */
    GASimpleGA cGA(cGenome);
    cGA.minimize();                     // the objective function must be minimized
-   cGA.populationSize(5);              // population size for each generation
+   cGA.populationSize(40);              // population size for each generation
    cGA.nGenerations(500);              // number of generations
    cGA.pMutation(0.05f);               // prob of gene mutation
    cGA.pCrossover(0.15f);              // prob of gene crossover

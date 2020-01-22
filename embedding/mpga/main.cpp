@@ -45,7 +45,7 @@ int main() {
              5,                                   // Population size
              0.05,                                // Mutation probability
              5,                                   // Number of trials
-             100,                                 // Number of generations
+             400,                                 // Number of generations
              false,                               // Minimize score
              "experiments/mpga.argos",            // .argos conf file
              &ScoreAggregator,                    // The score aggregator

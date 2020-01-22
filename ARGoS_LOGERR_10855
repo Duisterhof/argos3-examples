@@ -1,0 +1,4 @@
+[FATAL] Failed to initialize the space.
+[FATAL] Failed to initialize entity "bot0".
+[FATAL] Failed to initialize controllable entity "controller_0".
+[FATAL] Can't find XML configuration for controller id "argos_ros_bot_neat"

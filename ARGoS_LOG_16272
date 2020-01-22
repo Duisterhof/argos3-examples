@@ -1,0 +1,8 @@
+[INFO] Not using threads
+[INFO] Using random seed = 312
+[INFO] Using simulation clock tick = 0.1
+[INFO] Total experiment length in clock ticks = 1200
+[INFO] Loaded library "./build/controllers/footbot_nn/libfootbot_nn.so"
+[INFO] Loaded library "./build/loop_functions/mpga_loop_functions/libmpga_phototaxis_loop_functions.so"
+[INFO] The physics engine "dyn2d" will perform 10 iterations per tick (dt = 0.01 sec)
+[INFO] No visualization selected.
